@@ -1,0 +1,40 @@
+project_id = "ccarbnqfmymlpingurvy"
+
+[functions.analyze-threat]
+verify_jwt = false
+
+[functions.analyze-phishing]
+verify_jwt = false
+
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.check-domain]
+verify_jwt = false
+
+[functions.ip-lookup]
+verify_jwt = false
+
+[functions.threat-intelligence]
+verify_jwt = false
+
+[functions.check-ssl]
+verify_jwt = false
+
+[functions.check-email-breach]
+verify_jwt = false
+
+[functions.firecrawl-scrape]
+verify_jwt = false
+
+[functions.firecrawl-map]
+verify_jwt = false
+
+[functions.firecrawl-crawl]
+verify_jwt = false
+
+[functions.threat-feed]
+verify_jwt = false
+
+[functions.my-connection]
+verify_jwt = false
